@@ -15,6 +15,9 @@ Its like complete python in Jupyter notebook. It will be updated daily
   
   * OS
   
-  * File Handling
+  * File Handling:
+    * Text file (18th AUG 2022)
+    * Zip file (18th JAN 2022) 
+    * CSV file (22th JAN 2022)
   
   * Regular expression

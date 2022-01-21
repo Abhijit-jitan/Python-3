@@ -14,6 +14,10 @@ Its like complete python in Jupyter notebook. It will be updated daily
   * OOPs
   
   * OS
+   * Core OS module
+   * OS.Path
+   * OS.system
+   * Directory Handling 
   
   * File Handling:
     * Text file (18th AUG 2022)
